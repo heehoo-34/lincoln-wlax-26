@@ -8,6 +8,6 @@ Originally developed by Isabelle Ai in 2026. Intended for players to share with 
 You will need to change the 'Our Team', 'Schedule', and 'Registration' pages. I recommend that you create a new image folder in order to do so. You can start by creating a new folder in your File Explorer. Name it something like "images[your year]". Then, go into the "code" section of the repository, click the "Add File" button on the top right, and select "Upload files" from the dropdown. You can then drag your file into the box and it will upload into the repository. <br>
 [MORE INSTRUCTIONS PENDING. sorry guys i live a busy life] <br>
 
-<b>Possible Improvements</b>
+<b>Possible Improvements</b> <br>
 25/26: make images work on mobile, replace background images with higher quality (we didn't take a lot of pics this year)
 </ul>
