@@ -9,5 +9,5 @@ You will need to change the 'Our Team', 'Schedule', and 'Registration' pages. I 
 [MORE INSTRUCTIONS PENDING. sorry guys i live a busy life] <br>
 
 <b>Possible Improvements</b> <br>
-25/26: make images work on mobile, replace background images with higher quality (we didn't take a lot of pics this year)
+25/26: make the text less obtrusive on mobile, replace background images with higher quality pictures, purchase a domain that doesn't have my dumb github username in it
 </ul>
