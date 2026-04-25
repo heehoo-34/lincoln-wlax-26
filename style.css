@@ -8,7 +8,7 @@
 .headerh{
 	min-height: 100vh;
 	width: 100%;
-	background-image: linear-gradient(rgba(30,9,4,0.3),rgba(30,9,4,0.3)), url(images/aboutus.jpg);
+	background-image: linear-gradient(rgba(30,9,4,0.3),rgba(30,9,4,0.3)), url(images/aboutus.JPG);
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -20,7 +20,7 @@
 .headert{
 	min-height: 100vh;
 	width: 100%;
-	background-image: linear-gradient(rgba(30,9,4,0.3),rgba(30,9,4,0.3)),url(images/lincolnteam.jpg);
+	background-image: linear-gradient(rgba(30,9,4,0.3),rgba(30,9,4,0.3)),url(images/lincolnteam.JPG);
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -32,7 +32,7 @@
 .headers{
 	min-height: 100vh:
 	width: 100%;
-	background-image: url(images/schedule.jpg);
+	background-image: url(images/schedule.JPG);
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
